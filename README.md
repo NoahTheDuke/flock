@@ -1,6 +1,6 @@
 # FMF Code Challenge
 
-This repository contains code for Noah Bogart's code challenge.
+This repository contains code for Noah Bogart's code challenge. All code is Python 3.5+.
 
 ## Calculator Prototype
 
@@ -14,4 +14,12 @@ internals are sound. Number has to be imported for multiplication, as Python wil
 
 ## Bootstrap Page
 
-My apologies, as I have never worked with Bootstrap. 
+My apologies, I have never worked with Bootstrap. This is the best I could come up with in the time I had left.
+
+The page is located at bootstrap/index.html.
+
+## Installation
+
+    git clone https://github.com/NoahTheDuke/flock.git
+
+Tests can by run by running `python3 calculator.py`.
